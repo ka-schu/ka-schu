@@ -1,4 +1,4 @@
-## Hi! 👋 I'm an ocean scientist with a background in big data analysis, engineering and instrumentation. I'm passionate about using science and technology to enhance the sustainable management of our planet’s resources and elevate the quality of life of its communities.
+## Hi! 👋 I'm an ocean scientist with a background in complex data analysis, engineering and instrumentation. I'm passionate about using science and technology to enhance the sustainable management of our planet’s resources and elevate the quality of life of its communities.
 
 <!--
 **ka-schu/ka-schu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
